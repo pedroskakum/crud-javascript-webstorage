@@ -1,0 +1,13 @@
+th, td {
+    border: 1px solid black;
+}
+
+#form{
+    display: none;
+}
+
+#NovoContato, #form{
+    margin-bottom: 20px;
+}
+
+
